@@ -4,10 +4,6 @@ PixelFit is a simple, browser-based image resizing and compression tool built us
 
 It allows users to upload images, customize dimensions, compress file sizes, and download processed images.
 
-## Preview
-
-![PixelFit Preview](https://placehold.co/1200x650/0d0f12/d7ff55?text=PixelFit+-+Image+Resizer+%26+Compressor)
-
 ## Features
 
 - Upload images using drag and drop or file selection.
@@ -50,4 +46,4 @@ PixelFit/
 
 ## preview
 
-![PixelFit Preview](assets/preview.png)
+![PixelFit Preview](preview.png)
