@@ -1,4 +1,4 @@
-# PixelFit – Image Resizer & Compressor
+# PixelFit – Image Resizer & Compressor         
 
 PixelFit is a simple, browser-based image resizing and compression tool built using HTML, CSS, and JavaScript.
 
